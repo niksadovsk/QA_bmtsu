@@ -2,11 +2,11 @@
 
 # QA_bmtsu
 
-
-Test vending portal
+This is a study project for BMSTU
+Test online shop
 We use Python 3.9 and Selenium
 
-Run test with command 
+To run use command 
 
 ```
 python
